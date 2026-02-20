@@ -11,7 +11,7 @@
   },
   "main": "./ksef-fe-invoice-converter.umd.cjs",
   "module": "./ksef-fe-invoice-converter.js",
-  "types": "./index.d.ts",
+  "types": "./dist/index.d.ts",
   "type": "module",
   "exports": {
     ".": {
